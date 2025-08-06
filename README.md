@@ -444,7 +444,7 @@ git push origin main
 git add file1.txt file2.txt
 
 # Stage by pattern
-git add *.js
+git add *.py
 
 # Unstage files
 git reset filename.txt
